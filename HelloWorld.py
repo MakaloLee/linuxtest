@@ -15,5 +15,5 @@ for i in range(10):
 print test
 print "a"
 
-plt.plot(test)
+plt.plot(a)
 plt.show()
