@@ -14,6 +14,3 @@ for i in range(10):
   test.append(i)
 print test
 print "a"
-
-plt.plot(a)
-plt.show()
